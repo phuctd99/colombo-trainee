@@ -1,10 +1,10 @@
-﻿# Bài tập Trainee Colombo 2019
+# Bài tập Trainee Colombo 2019
 
-##Làm giao diện theo wireframe
+## Làm giao diện theo wireframe
 
-Thiết kế một giao diện sựa trên bố cục đã cho
+Thiết kế một giao diện dựa trên bố cục đã cho
 
-Thực hiện bởi [Trần Duy Phúc](https://github.com/phuctd99)
+Thực hiện bởi  [Trần Duy Phúc](https://github.com/phuctd99)
 
 ## Liên kết
 
@@ -17,8 +17,8 @@ Thực hiện bởi [Trần Duy Phúc](https://github.com/phuctd99)
 
 ## Kiến thức nắm được
 
-Cách sắp xếp bố cục hợp lý
-Ys nghĩa của ảnh, thẻ, icon,..
+- Cách sắp xếp bố cục hợp lý
+- Ý nghĩa của ảnh, thẻ, icon,..
 
 
 ## Credit
