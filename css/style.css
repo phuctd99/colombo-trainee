@@ -159,7 +159,9 @@ img {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-
+.selectbox select{
+	height: 34px;
+}
 #price{
 	height: 40px;
 	padding-top: 20px;
