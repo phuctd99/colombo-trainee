@@ -17,7 +17,7 @@
 * html5 hỗ trợ đa phương tiện còn html4 dựa vào bên thứ ba như *Silverlight*, *flash*
 * Vì xuất hiện sớm hơn nên html4 tương thích với trình duyệt tốt hơn html5
 * Tài liệu: https://www.educba.com/html5-vs-html4/
-## 4. Khác nhau giữa css2 và css3 :https://www.educba.com/html5-vs-html4/
+## 4. Khác nhau giữa css2 và css3 :
 Sự khác biệt lớn nhất giữa CSS2 và CSS3 là CSS3 đã được chia thành các phần khác nhau, được gọi là các mô-đun<br/>
 CSS3 có nhiều cái mới như:
 * Thuộc tính background mới : background-clip, background-origin, background-repeat, background-attachment
